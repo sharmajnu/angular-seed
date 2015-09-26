@@ -28,3 +28,17 @@
   content: "";
   padding: 0;
 }
+
+
+.site-footer {
+  position: relative;
+  margin: 15rem 0 0 0;
+  padding: 10rem 0;
+  border-top: #ebf2f6 1px solid;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3rem;
+  line-height: 1.7em;
+  color: #bbc7cc;
+  text-align: center;
+  background: #f7fafb;
+}
